@@ -34,20 +34,6 @@
             <artifactId>circe-core_2.12</artifactId>
             <version>0.10.1</version>
         </dependency>
-        <dependency>
-            <groupId>io.circe</groupId>
-            <artifactId>circe-generic_2.12</artifactId>
-            <version>0.10.1</version>
-        </dependency>
-        <dependency>
-            <groupId>org.scala-lang.modules</groupId>
-            <artifactId>scala-xml_2.12</artifactId>
-            <version>1.1.1</version>
-        </dependency>
-
-
-
-
     </dependencies>
 
     <build>
